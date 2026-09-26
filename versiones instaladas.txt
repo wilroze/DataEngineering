@@ -1,0 +1,24 @@
+1.python --versión
+Python 3.14.7
+
+2.pip --version
+pip 26.2.1 from D:\LaboratoriosIT\DataEngineering\.venv\Lib\site-packages\pip (python 3.14)
+
+3.git --versión
+git version 2.55.0.windows.5
+
+4.docker --versión
+Docker version 29.8.0, build 88096ef
+
+5.docker compose versión
+Docker Compose version v5.5.1
+
+6.wsl --version
+Versión de WSLg: 1.0.73.2
+Versión de MSRDC: 1.2.7214
+Versión de Direct3D: 1.611.1-81528511
+Versión de DXCore: 10.0.26100.1-240331-1435.ge-release
+Versión de Windows: 10.0.26200.9457
+
+7.python -c "import sys; print(sys.executable)"
+D:\LaboratoriosIT\DataEngineering\.venv\Scripts\python.exe

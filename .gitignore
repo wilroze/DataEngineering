@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Data files
+*.csv
+*.parquet
+*.xlsx
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+*.pem
+*.key
+*.pfx
+secrets/
+credentials/
+
+# Azure
+.azure/
+
+# Databricks
+.databricks/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Docker
+docker-data/
+
+# Temporary
+tmp/
+temp/
