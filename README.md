@@ -1,6 +1,6 @@
 # Data Engineering Professional Lab
 
-## Professional Data Engineering Portfolio
+## Professional Data Engineering Portafolio
 This repository documents my journey and practical implementation
 of modern Data Engineering technologies.
 
